@@ -1,0 +1,5 @@
+C:\Users\102714329\OneDrive - Swinburne University\Programming-430\Challenge2\obj\Debug\net5.0\Challenge2.csproj.AssemblyReference.cache
+C:\Users\102714329\OneDrive - Swinburne University\Programming-430\Challenge2\obj\Debug\net5.0\Challenge2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\102714329\OneDrive - Swinburne University\Programming-430\Challenge2\obj\Debug\net5.0\Challenge2.AssemblyInfoInputs.cache
+C:\Users\102714329\OneDrive - Swinburne University\Programming-430\Challenge2\obj\Debug\net5.0\Challenge2.AssemblyInfo.cs
+C:\Users\102714329\OneDrive - Swinburne University\Programming-430\Challenge2\obj\Debug\net5.0\Challenge2.csproj.CoreCompileInputs.cache
